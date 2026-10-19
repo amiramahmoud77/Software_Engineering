@@ -1,22 +1,55 @@
-# 📚 Software Engineering Course (SE)
+<div align="center">
 
-Welcome to my Software Engineering repository! Here I organize all my practical sessions, lab data, and problem solutions.
+# 💻 Software Engineering (SE) Lab Sessions
+
+<img src="https://img.shields.io/badge/Course-Software%20Engineering-blue?style=for-the-badge&logo=codeforces" alt="Course">
+<img src="https://img.shields.io/badge/Tool-Software%20Ideas%20Modeler-purple?style=for-the-badge&logo=diagramsdotnet" alt="Tool">
+<img src="https://img.shields.io/badge/Status-Active%20Learning-brightgreen?style=for-the-badge&logo=git" alt="Status">
+
+*A dedicated repository for documenting, organizing, and tracking all practical lab sessions, assignments, and UML models for the Software Engineering course.*
+
+</div>
+
+---
+
+## 📖 About Software Engineering (SE)
+**Software Engineering** is a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software. This course covers core software engineering principles including software development lifecycles (SDLC), project planning, timeline estimation, requirements analysis, system design, and visual modeling using industry-standard tools.
 
 ---
 
-## 📌 Course Sections & Files
-
-### 1️⃣ Gantt Chart & Project Planning
-This section covers project scheduling, timeline data, and precedence graph solutions.
-* **Files:**
-  * [Gantt Data Ready (Excel)](https://github.com/amiramahmoud77/Software_Engineering/blob/main/Gantt_Data_Ready_NoChart.xlsx) - Ready-to-use scheduling data.
-  * [Gantt Precedence Problem Solution (Excel)](https://github.com/amiramahmoud77/Software_Engineering/blob/main/Gantt_Precedence_Problem.xlsx) - Solved precedence network problem.
-  * [Gantt Chart Section (PDF)](https://github.com/amiramahmoud77/Software_Engineering/blob/main/Gantt_Chart_Section.pdf) - Detailed explanation and lecture notes.
-
-### 2️⃣ System Modeling & Diagrams
-This section focuses on software requirements modeling using UML.
-* **Files:**
-  * [Context & Use Case Diagrams (PDF)](https://github.com/amiramahmoud77/Software_Engineering/blob/main/Context%26Use_Case_Diagrams.pdf) - Comprehensive guide on context and use case diagrams.
+## 🛠️ Main Modeling Tool
+During the lab sessions, we utilize **Software Ideas Modeler** to design and structure our UML diagrams and system modeling requirements efficiently.
 
 ---
-✨ *Feel free to explore or check out the files!*
+
+## 📂 Lab Sessions & Topics
+
+### 🔹 Section 1: Project Planning & Gantt Charts
+Focused on project management techniques, scheduling, work breakdown structures (WBS), and solving precedence graph/network problems.
+* 📝 **Topics Covered:** Project Scheduling, Precedence Analysis, Critical Path Planning.
+* 🔗 **Files & Resources:**
+  * [📊 Gantt Data Ready (Excel File)](https://github.com/amiramahmoud77/Software_Engineering/blob/main/Gantt_Data_Ready_NoChart.xlsx) - Prepared timeline and activity data.
+  * [🧮 Gantt Precedence Problem Solution (Excel File)](https://github.com/amiramahmoud77/Software_Engineering/blob/main/Gantt_Precedence_Problem.xlsx) - Solved precedence network exercise.
+  * [📄 Gantt Chart Explanation & Lecture Notes (PDF File)](https://github.com/amiramahmoud77/Software_Engineering/blob/main/Gantt_Chart_Section.pdf) - Comprehensive guide on Gantt Chart analysis.
+
+---
+
+### 🔹 Section 2: System Modeling & UML Diagrams
+Focused on visual software design, capturing system boundaries, actor interactions, and functional requirements using **Software Ideas Modeler**.
+* 📐 **Diagrams Covered:**
+  * **Context Diagrams** (System boundaries & external entity data flows)
+  * **Use Case Diagrams** (Actors, Use Cases, `<include>`, and `<extend>` relationships)
+* 🔗 **Files & Resources:**
+  * [📄 Context & Use Case Diagrams Guide (PDF File)](https://github.com/amiramahmoud77/Software_Engineering/blob/main/Context%26Use_Case_Diagrams.pdf) - Detailed walkthrough for system design and UML modeling.
+
+---
+
+##  Future Sections
+*Upcoming lab sessions, software architecture patterns, and additional UML models will be added here step-by-step!*
+
+---
+
+<div align="center">
+  <p>✨ <i>Organized for Software Engineering </i> ✨</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,10,20,30&height=100&section=footer"/>
+</div>
