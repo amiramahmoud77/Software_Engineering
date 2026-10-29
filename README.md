@@ -66,6 +66,6 @@ Focused on behavioral modeling, showing object interactions arranged in a time s
 ---
 
 <div align="center">
-  <p>✨ <i>Organized for Software Engineering Excellence</i> ✨</p>
+  <p>✨ <i>Organized for Software Engineering </i> ✨</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,10,20,30&height=100&section=footer"/>
 </div>
