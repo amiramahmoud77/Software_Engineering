@@ -60,7 +60,7 @@ Focused on behavioral modeling, showing object interactions arranged in a time s
 
 ---
 
-## 🚀 Future Sections
+##  Future Sections
 *Upcoming lab sessions, software architecture patterns, and additional UML models will be added here step-by-step!*
 
 ---
