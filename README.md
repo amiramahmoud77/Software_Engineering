@@ -60,6 +60,14 @@ Focused on behavioral modeling, showing object interactions arranged in a time s
 
 ---
 
+### 🔹 Section 5: ERD & Activity Diagrams
+Focused on conceptual database design using Entity-Relationship Diagrams (ERD) and process workflow modeling using Activity Diagrams.
+- 📝 **Topics Covered:** Entities, Attributes, Relationships, Workflow Actions, Decisions, and Process Flowcharts.
+- 🔗 **Files & Resources:**
+  * [📄 ERD & Activity Diagrams Guide (PDF File)](https://github.com/amiramahmoud77/Software_Engineering/blob/main/Section5_ERD%26Activity.pdf) - Comprehensive guide and practical notes for ERD and Activity Diagrams.
+
+---
+
 ##  Future Sections
 *Upcoming lab sessions, software architecture patterns, and additional UML models will be added here step-by-step!*
 
