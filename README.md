@@ -67,6 +67,11 @@ Focused on conceptual database design using Entity-Relationship Diagrams (ERD) a
   * [📄 ERD & Activity Diagrams Guide (PDF File)](https://github.com/amiramahmoud77/Software_Engineering/blob/main/Section5_ERD%26Activity.pdf) - Comprehensive guide and practical notes for ERD and Activity Diagrams.
 
 ---
+### 🔹 Section 6: Critical Path Method (CPM)
+Focused on network scheduling techniques, activity durations, slack/float times, and finding the critical path in project management.
+- 📝 **Topics Covered:** CPM Network Analysis, Earliest/Latest Start & Finish, Slack Time, and Critical Path.
+- 🔗 **Files & Resources:**
+  - [📄 CPM Section Guide (PDF File)](https://github.com/amiramahmoud77/Software_Engineering/blob/main/CPM_Section%20.pdf) - Lecture notes and CPM scheduling examples.
 
 ##  Future Sections
 *Upcoming lab sessions, software architecture patterns, and additional UML models will be added here step-by-step!*
